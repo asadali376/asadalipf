@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.card_light};
   display: flex;
