@@ -1,4 +1,4 @@
-import htmlLogo from '../images/htmlLogo.png'
+
 export const Bio = {
   name: "ASAD ALI AAiSH",
   roles: [
