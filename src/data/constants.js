@@ -4,7 +4,7 @@ export const Bio = {
   roles: [
     "Front End Developer",
     "Programmer",
-    "learner @ BackEnd"
+    "Learner @ BackEnd"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. My final goal is to serve humanity through IT sector and gonna do business in this field soon (InShaALLAH).",
@@ -70,12 +70,7 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
-      
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
+  
       {
         name: "SQL",
         image:
@@ -256,7 +251,7 @@ export const projects = [
     github: "https://github.com/asadali376/NamePrinter/blob/main/String_Pattern-by-CS_DRAGONS.c",
     member: [
           {
-            name: "Muhammad Huzaifa Latif",
+            name: "M. Huzaifa Latif",
             img: require('../images/huzaifalatif.jpeg'),
             github: "https://github.com/HuzaifaLatif13",
             linkedin: "https://www.linkedin.com/in/muhammadhuzaifalatif/",

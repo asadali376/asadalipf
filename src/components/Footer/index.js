@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 <span style={{color: '#854CE6', textDecoration: 'underline' , cursor: 'pointer' }}> AAiSH Tech</span> | All rights reserved.
+          &copy; 2024 <span style={{color: '#8EE4AF', textDecoration: 'underline' , cursor: 'pointer' }}> AAiSH Tech</span> | All rights reserved.
         </Copyright>
 
       </FooterWrapper>
