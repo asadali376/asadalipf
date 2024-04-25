@@ -1,6 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-import Link from 'react-router-dom'
+import {Link} from 'react-router-dom'
+import { darkTheme } from '../../utils/Themes.js'
+import Mylink from '@mui/icons-material/Launch';
 
 const Document = styled.img`
     display: none;
@@ -152,7 +154,7 @@ const ExperienceCard = ({ experience }) => {
                 <Image src={experience.img} />
                 <Body>
                     <Role>{experience.role}</Role>
-                    <Company><Link to="https://sourcecodepk.com/"> {experience.company} </Link></Company>
+                    <Company> {experience.company} {experience?.link && <Link to={experience.link} style={{color:darkTheme.color}}> <Mylink/></Link> } </Company>
                     <Date>{experience.date}</Date>
                 </Body>
             </Top>

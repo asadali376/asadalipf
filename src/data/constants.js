@@ -157,8 +157,8 @@ export const experiences = [
   },
   {
     id: 1,
-    img: require('../images/sourcecodelogo.jpg'),
-    role: "Front End Developer",
+    img: require('../images/sclogo.png'),
+    role: "Intern- Front End Developer",
     company: "Source Code, ChichaWatni",
     link: "https://sourcecodepk.com/",
     date: "Jun 2023 - Aug 2023",
