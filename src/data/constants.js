@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. My final goal is to serve humanity through IT sector and gonna do business in this field soon (InShaALLAH).",
   github: "https://github.com/asadali376",
   resume:
-    "https://drive.google.com/file/d/1o0rKikR-CZHjdJaxRp_W5d5ozCkpy0gX/view?usp=drive_link",
+    "https://drive.google.com/file/d/19buYw-4mHGqfHrl_btJAcAYLwrjIJySo/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/asad376/",
   whatsapp: "https://wa.me/+923260065376",
   insta: "https://www.instagram.com/asad__376/",
