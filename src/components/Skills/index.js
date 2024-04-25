@@ -97,6 +97,7 @@ const SkillItem = styled.div`
   font-weight: 400;
   color: ${({ theme }) => theme.text_primary + 80};
   border: 1px solid ${({ theme }) => theme.text_primary + 80};
+
   border-radius: 12px;
   padding: 12px 16px;
   display: flex;

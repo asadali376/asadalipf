@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import Link from 'react-router-dom'
 
 const Document = styled.img`
     display: none;
@@ -151,7 +152,7 @@ const ExperienceCard = ({ experience }) => {
                 <Image src={experience.img} />
                 <Body>
                     <Role>{experience.role}</Role>
-                    <Company>{experience.company}</Company>
+                    <Company><Link to="https://sourcecodepk.com/"> {experience.company} </Link></Company>
                     <Date>{experience.date}</Date>
                 </Body>
             </Top>

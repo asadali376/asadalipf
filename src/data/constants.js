@@ -53,31 +53,31 @@ export const skills = [
 
     ],
   },
-  {
-    title: "Learning Backend",
-    skills: [
-      {
-        name: "Node Js",
-        image: require('../images/nodejs.png'),
-      },
-      {
-        name: "Express Js",
-        image:
-        require('../images/express3.png'),
-      },
-      {
-        name: "MongoDB",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
+  // {
+  //   title: "Learning Backend",
+  //   skills: [
+  //     {
+  //       name: "Node Js",
+  //       image: require('../images/nodejs.png'),
+  //     },
+  //     {
+  //       name: "Express Js",
+  //       image:
+  //       require('../images/express3.png'),
+  //     },
+  //     {
+  //       name: "MongoDB",
+  //       image:
+  //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+  //     },
   
-      {
-        name: "SQL",
-        image:
-        require('../images/sql2.png'),
-      },
-    ],
-  },
+  //     {
+  //       name: "SQL",
+  //       image:
+  //       require('../images/sql2.png'),
+  //     },
+  //   ],
+  // },
   {
     title: "Programming",
     skills: [
@@ -157,6 +157,23 @@ export const experiences = [
   },
   {
     id: 1,
+    img: require('../images/sourcecodelogo.jpg'),
+    role: "Front End Developer",
+    company: "Source Code, ChichaWatni",
+    link: "https://sourcecodepk.com/",
+    date: "Jun 2023 - Aug 2023",
+    desc: "Worked as Front End Developer on projects and learned many new things and experienced team-work",
+    skills: [
+     "HTML",
+     "CSS",
+     "JavaScript",
+     "ReactJs",
+     "Bootstrap",
+    ],
+    
+  },
+  {
+    id: 2,
     img: require('../images/msacademy.png'),
     role: "Mentorship",
     company: "Muhaiyudeen Science Academy, Chichawatni",
